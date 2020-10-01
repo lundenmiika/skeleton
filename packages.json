@@ -1,0 +1,11 @@
+{
+  "package": {
+    "name": "pimcore/skeleton",
+    "version": "1.0.0",
+    "source": {
+      "url": "./skeleton/.git",
+      "type": "git",
+      "reference": "master"
+    }
+  }
+}
